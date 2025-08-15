@@ -3,3 +3,4 @@
 [submodule "assorted-assets"]
 	path = assorted-assets
 	url = https://github.com/a-feltesdeyapp/assorted-assets.git
+	branch = main
