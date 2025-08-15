@@ -1,3 +1,5 @@
 [submodule "rdme-assets"]
 	path = rdme-assets
 	url = https://github.com/a-feltesdeyapp/assorted-assets
+[submodule "content"]
+	branch = main
