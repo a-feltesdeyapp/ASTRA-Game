@@ -2,6 +2,14 @@
 ASTRA (Astronaut Stability Training Response Apparatus) was a 2024-2025 [Senior Design Project](https://www.colorado.edu/aerospace/academics/undergraduates/senior-design-projects). This repository is a host for the deployed [HTML5 game executable](https://github.com/auma4987/ASTRA/blob/main/ASTRA%20Game%20-%20Published%20Versions/astra_game-html5.zip), developed for the currently complete ASTRA project. It was designed to be used in conjunction with the software from [auma4987/ASTRA](https://github.com/auma4987/ASTRA) but can also be played just with keyboard or a Wii Balance Board.
 
 ## Controls
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/file/d/1xvgkGGd9DTLQfsxboixtnHI50LDB2GUW/view?usp=drive_link">
+  <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/file/d/1o0rl8eX105hUHLOTOzBZfQg9MmC1CeLB/view?usp=drive_link">
+  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
+
+
 <kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> or <kbd>↑</kbd><kbd>↓</kbd><kbd>→</kbd><kbd>←</kbd> to move
 
 <kbd>P</kbd> to Pause or Resume
