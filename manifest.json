@@ -1,0 +1,17 @@
+{
+	"app/main.rb" : { "filesize" : 6603, "filetime" : 1747934453 },
+	"app/repl.rb" : { "filesize" : 9496, "filetime" : 1747934453 },
+	"font.ttf" : { "filesize" : 3438444, "filetime" : 1747934453 },
+	"open-source-licenses.txt" : { "filesize" : 32582, "filetime" : 1747934453 },
+	"sprites/ASTRA_sprite.png" : { "filesize" : 398365, "filetime" : 1747934453 },
+	"README-astra_game.txt" : { "filesize" : 70, "filetime" : 1747934453 },
+	"metadata/icon.png" : { "filesize" : 157056, "filetime" : 1747934453 },
+	"metadata/cvars.txt" : { "filesize" : 1970, "filetime" : 1747934453 },
+	"metadata/ASTRA_icon.png" : { "filesize" : 502442, "filetime" : 1747934453 },
+	"metadata/dragonruby_production_build" : { "filesize" : 0, "filetime" : 1747934453 },
+	"metadata/game_metadata.txt" : { "filesize" : 2255, "filetime" : 1747934453 },
+	"dragonruby.png" : { "filesize" : 14417, "filetime" : 1747934453 },
+	"dragonruby-controller.png" : { "filesize" : 32688, "filetime" : 1747934453 },
+	"console-logo.png" : { "filesize" : 25034, "filetime" : 1747934453 },
+	"" : {}
+}
