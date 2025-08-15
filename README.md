@@ -2,21 +2,29 @@
 ASTRA (Astronaut Stability Training Response Apparatus) was a 2024-2025 [Senior Design Project](https://www.colorado.edu/aerospace/academics/undergraduates/senior-design-projects). This repository is a host for the deployed [HTML5 game executable](https://github.com/auma4987/ASTRA/blob/main/ASTRA%20Game%20-%20Published%20Versions/astra_game-html5.zip), developed for the currently complete ASTRA project. It was designed to be used in conjunction with the software from [auma4987/ASTRA](https://github.com/auma4987/ASTRA) but can also be played just with keyboard or a Wii Balance Board.
 
 ## Controls
+Movement:    
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/a-feltesdeyapp/ASTRA-Game/blob/main/readme-assets/WASD-Arrows_w.png" width=152>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/a-feltesdeyapp/ASTRA-Game/blob/main/readme-assets/WASD-Arrows_k.png" width=152>
+    <img alt="W A S D keys and arrow keys" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/file/d/1xvgkGGd9DTLQfsxboixtnHI50LDB2GUW/view?usp=drive_link">
-  <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/file/d/1o0rl8eX105hUHLOTOzBZfQg9MmC1CeLB/view?usp=drive_link">
-  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+Pause:    
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/a-feltesdeyapp/ASTRA-Game/blob/main/readme-assets/P_w.png" width=25>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/a-feltesdeyapp/ASTRA-Game/blob/main/readme-assets/P_k.png" width=25>
+    <img alt="P key" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  </picture>
 
+Reset:    
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/a-feltesdeyapp/ASTRA-Game/blob/main/readme-assets/R_w.png" width=27>
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/a-feltesdeyapp/ASTRA-Game/blob/main/readme-assets/R_k.png" width=27>
+      <img alt="R key" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+    </picture>
 
-<kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> or <kbd>↑</kbd><kbd>↓</kbd><kbd>→</kbd><kbd>←</kbd> to move
-
-<kbd>P</kbd> to Pause or Resume
-
-<kbd>R</kbd> to Reset
-
-## Playing with a Wii Balance Board **Windows Only**
+## Playing with a Wii Balance Board 
+*Note: Windows Only due to firmware limitations*
 1. Install [Wii Balance Walker](https://github.com/lshachar/WiiBalanceWalker) onto your PC
 2. Turn on Wii Balance Board. Open the battery cover
 3. Open Wii Balance Walker. Press <kbd>Add/Remove bluetooth Wii device</kbd>. Copy device pin and close the window
